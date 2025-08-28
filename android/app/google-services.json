@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510922620421",
+    "project_id": "diciojenipapo-6e050",
+    "storage_bucket": "diciojenipapo-6e050.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510922620421:android:7b499423bcadda0d65e66c",
+        "android_client_info": {
+          "package_name": "com.example.diciojenipapo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwNO6AfpV-CiFbv5DLwH5uxsdHfR4I-XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
