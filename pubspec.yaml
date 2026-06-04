@@ -38,15 +38,17 @@ dependencies:
   cupertino_icons: ^1.0.8
   firebase_core: ^3.13.0
   cloud_firestore: ^5.6.7  # conexão com o banco
-  flutter_tts: ^4.2.2 # ou a versão mais recente sintetiza a voz
+  flutter_tts: ^4.2.3 # ou a versão mais recente sintetiza a voz
   flutter_typeahead: ^5.2.0 # auto completa o textfild
   flutter_launcher_icons: ^0.14.3 # trata o icone do aplicatvo
   shared_preferences: ^2.5.3 # responsavel por armazenas as palavras favoritadas na memoria do dispositivo
+  sqflite: ^2.4.2
+  path: ^1.9.1
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+  flutter_lints: ^5.0.0
 
 
 flutter_icons:
@@ -58,7 +60,7 @@ flutter_icons:
   # activated in the `analysis_options.yaml` file located at the root of your
   # package. See that file for information about deactivating specific lint
   # rules and activating additional ones.
-  flutter_lints: ^5.0.0
+
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
